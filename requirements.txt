@@ -4,7 +4,7 @@ pandas
 numpy
 plotly
 scikit-learn
-tensorflow-cpu
+tensorflow==2.12.0
 keras
 pandas-ta
 matplotlib
