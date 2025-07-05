@@ -37,6 +37,6 @@ A Streamlit web app that predicts Indian NSE stock prices using LSTM neural netw
 ## 🧩 Installation
 
 ```bash
-git clone https://github.com/yourusername/stock-price-prediction.git
+git clone https://github.com/anshhuuu/Stock-Price-Prediction-using-LSTM.git
 cd stock-price-prediction
 pip install -r requirements.txt
